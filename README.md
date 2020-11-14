@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a prototype for a peer to peer system where companies validate, with an electronic signature, the shipment data they commit to.
+This project is a prototype for a peer to peer system where companies validate, with an electronic signature, the shipment data they commit to. It will be maintained on GitLab: https://gitlab.com/Eonpass/eonpeers
 
 The project is a Flask+RestPlus server which generates the swagger documentation to interact with it. Most endpoints follow the REST structure, custom actions are identified by the /rpc/ token in their url.
 
