@@ -1,4 +1,4 @@
-# EonCodes
+# EonPeers
 
 ## Description
 
